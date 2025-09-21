@@ -45,6 +45,6 @@ You can view the published dashboard here
 - Data-driven decision support  
 
 ## 📌 Tools Used
-
-- Microsoft Power BI  
-- Data Modeling & DAX  
+- **Power BI** – For creating interactive dashboards and reports  
+- **Power Query** – For cleaning, transforming, and preparing data  
+- **DAX (Data Analysis Expressions)** – For calculations and measures  
