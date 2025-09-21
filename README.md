@@ -20,25 +20,22 @@ The HR Analytics Dashboard solves this problem by bringing all key HR metrics in
 - Department-wise Employee Count  
 - Average Tenure of Employees
 
----
 
 ## Dataset
-The dataset used in this project 
+The dataset used in this project  
+[Financial Loan Report](https://github.com/harshgholap05/HR-Dashboard-PowerBI/blob/main/Dataset%20FIle/HR%20DATASET.xlsx)
 
----
 
 ## Dashboard Link
-You can view the published dashboard here:  
+You can view the published dashboard here  
 [Click to View Dashboard](https://github.com/harshgholap05/HR-Dashboard-PowerBI/blob/main/HR%20Dashboard/HR%20DASHBOARD.pbix)  
 
----
 
 ## Dashboard Preview
-Below is a snapshot of the dashboard for reference:  
+**Below is a snapshot of the dashboard for reference:**
 
-![HR Dashboard Screenshot](images/dashboard.png)  
+<img width="1394" height="755" alt="HR Dashboard" src="https://github.com/user-attachments/assets/61106152-c5f9-4938-8354-37682eed0f52" />
 
---- 
 
 ## Features
 
